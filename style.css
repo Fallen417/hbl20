@@ -21,7 +21,6 @@ h2 {
 
 h3 {
   text-align: center;
-  font-family: 'Lobster', cursive;
   text-decoration: underline;
   background-image: linear-gradient(to right, #FF0000, #FFA500, #FFFF00, #008000, #0000FF, #4B0082, #EE88EE);
   -webkit-background-clip: text;
