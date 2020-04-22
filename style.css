@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
-  background: #50C878;
+  background: #9400D3;
 }
 
 h1 {
@@ -40,7 +40,7 @@ a:visited {
 
 a:hover {
   text-decoration: underline;
-  background-image: linear-gradient(to right, #E56AB3, #EF87BE, #F9A3CB, #FCBCD7, #FFCEE6);
+  background-image: linear-gradient(to right, #E56AB3, #EF87BE, #F9A3CB);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
