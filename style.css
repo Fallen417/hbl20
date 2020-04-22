@@ -1,3 +1,9 @@
+* {
+     color: black !important;
+     background-color: white !important;
+     background-image: none !important;
+}
+
 body {
   font-family: 'Lato', sans-serif;
   background: #50C878;
@@ -29,21 +35,21 @@ p {
 
 a:link {
   text-decoration: none;
-  background-image: linear-gradient(to right, #0000FF, #1F1FFF, #4949FF, #7879FF, #A3A3FF, #BFBFFF);
+  background-image: linear-gradient(to right, #0000FF, #1F1FFF, #4949FF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 a:visited {
   text-decoration: none;
-  background-image: linear-gradient(to right, #E56AB3, #EF87BE, #F9A3CB, #FCBCD7, #FFCEE6);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: hotpink
 }
 
 a:hover {
   text-decoration: underline;
-  color: hotpink;
+  background-image: linear-gradient(to right, #E56AB3, #EF87BE, #F9A3CB, #FCBCD7, #FFCEE6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 a:active {
