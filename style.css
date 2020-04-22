@@ -26,3 +26,27 @@ p {
   text-align: center;
   font-family: 'Merienda One', cursive;
 }
+
+a:link {
+  text-decoration: none;
+  background-image: linear-gradient(to left, #0000FF, #1F1FFF, #4949FF, #7879FF, #A3A3FF, #BFBFFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a:visited {
+  text-decoration: none;
+  background-image: linear-gradient(to left, #E56AB3, #EF87BE, #F9A3CB, #FCBCD7, #FFCEE6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: hotpink;
+}
+
+a:active {
+  text-decoration: underline;
+  color: blue
+}
