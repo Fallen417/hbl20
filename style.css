@@ -23,7 +23,9 @@ h3 {
 }
 
 p {
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
   font-family: 'Merienda One', cursive;
 }
 
