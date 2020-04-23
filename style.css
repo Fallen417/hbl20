@@ -16,7 +16,6 @@ h2 {
 h3 {
   width: 50%;
   margin: auto;
-  text-decoration: underline;
   font-family: 'Lobster', cursive;
   background-image: linear-gradient(to right, #552586, #64359C, #804FB3);
   -webkit-background-clip: text;
@@ -27,10 +26,6 @@ p {
   width: 50%;
   margin: auto;
   font-family: 'Merienda One', cursive;
-}
-
-#justify {
-  text-align: justify;
 }
 
 a:link {
