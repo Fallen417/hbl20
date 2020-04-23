@@ -4,17 +4,20 @@ body {
 }
 
 h1 {
-  text-align: center;
+  width: 50%;
+  margin: auto;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
 h2 {
-  text-align: center;
+  width: 50%;
+  margin: auto;
   font-family: 'Lobster', cursive;
 }
 
 h3 {
-  text-align: center;
+  width: 50%;
+  margin: auto;
   font-family: 'Lobster', cursive;
   background-image: linear-gradient(to right, #552586, #64359C, #804FB3);
   -webkit-background-clip: text;
