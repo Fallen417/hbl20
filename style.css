@@ -15,10 +15,11 @@ h2 {
 
 h3 {
   text-align: center;
-  text-decoration: underline;
+  font-family: 'Lobster', cursive;
   background-image: linear-gradient(to right, #552586, #64359C, #804FB3);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-decoration: underline;
 }
 
 p {
