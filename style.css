@@ -1,6 +1,6 @@
 body {
   font-family: 'Lato', sans-serif;
-  background: #9400D3;
+  background: #00FF00;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h2 {
 h3 {
   text-align: center;
   text-decoration: underline;
-  background-image: linear-gradient(to right, #FF0000, #FF8800, #FFFF00, #00ff00, #0000FF, #4B0082, #EE88EE);
+  background-image: linear-gradient(to right, #552586, #64359C, #804FB3);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
