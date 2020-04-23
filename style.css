@@ -29,14 +29,14 @@ p {
 
 a:link {
   text-decoration: none;
-  background-image: linear-gradient(to right, #000B18, #00172D, #00264D, #02386E, #00498D, #0052A2);
+  background-image: linear-gradient(to right, #000B18, #00172D, #00264D, #02386E, #00498D);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 a:hover {
   text-decoration: underline;
-  background-image: linear-gradient(to right, #E56AB3, #EF87BE, #F9A3CB);
+  background-image: linear-gradient(to right, #990C58, #B20E66, #CC1075, #E51284, #FF1493);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
