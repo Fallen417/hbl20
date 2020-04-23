@@ -23,8 +23,7 @@ h3 {
 }
 
 p {
-  text-align: center;
-  text-align: justify;
+  text-align: center, justify;
   font-family: 'Merienda One', cursive;
 }
 
