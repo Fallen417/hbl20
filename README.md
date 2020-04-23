@@ -1,4 +1,5 @@
 # hbl20
 for hbl 2020
 
-(link to web page or other meaningful landing page)
+- click on L on home page for HBL plan
+- click on ! to return to homepage
