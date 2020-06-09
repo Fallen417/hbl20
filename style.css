@@ -13,6 +13,7 @@ h1 {
 h2 {
   text-align: center;
   font-family: 'Lobster', cursive;
+  font-color: 54px;
   color: #05386B;
 }
 
@@ -20,9 +21,8 @@ h3 {
   width: 50%;
   margin: auto;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
-  font-size: 21px;
-  color: #FFFF33;
-  text-decoration: underline;
+  font-size: 36px;
+  color: #D5B60A;
 }
 
 p {
@@ -39,7 +39,6 @@ a:link {
 }
 
 a:hover {
-  text-decoration: underline;
   background-image: linear-gradient(to right, #990C58, #B20E66, #CC1075, #E51284, #FF1493);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
