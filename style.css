@@ -19,8 +19,10 @@ h2 {
 h3 {
   width: 50%;
   margin: auto;
-  font-family: 'Lobster', cursive;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 21px;
   color: #FFFF33;
+  text-decoration: underline;
 }
 
 p {
