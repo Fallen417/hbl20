@@ -23,6 +23,7 @@ h3 {
   font-family: 'ZCOOL QingKe HuangYou', cursive;
   font-size: 36px;
   color: #D5B60A;
+  text-decoration: underline;
 }
 
 p {
@@ -39,6 +40,7 @@ a:link {
 }
 
 a:hover {
+  text-decoration: underline;
   background-image: linear-gradient(to right, #990C58, #B20E66, #CC1075, #E51284, #FF1493);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
