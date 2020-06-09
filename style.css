@@ -1,25 +1,26 @@
 body {
   font-family: 'Lato', sans-serif;
-  background: #00FF00;
+  background: #5CDB95;
 }
 
 h1 {
   text-align: center;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 72px;
+  color: #EDF5E1;
 }
 
 h2 {
   text-align: center;
   font-family: 'Lobster', cursive;
+  color: #05386B;
 }
 
 h3 {
   width: 50%;
   margin: auto;
   font-family: 'Lobster', cursive;
-  background-image: linear-gradient(to right, #552586, #64359C, #804FB3);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #FFFF33;
 }
 
 p {
